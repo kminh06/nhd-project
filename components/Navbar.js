@@ -1,10 +1,52 @@
+import { useEffect } from 'react'
 import React from 'react'
 import Link from 'next/link'
 
 export default function Navbar(props) {
+  const links = [
+    {
+      route: '',
+      title: 'Home'
+    },
+    {
+      route: 'event',
+      title: 'Event'
+    },
+    {
+      route: 'context',
+      title: 'Context'
+    },
+    {
+      route: 'longueduree',
+      title: 'Longue Duree'
+    },
+    {
+      route: 'triggering',
+      title: 'Triggering Event'
+    },
+    {
+      route: 'impact',
+      title: 'Immediate Impact'
+    },
+    {
+      route: 'significance',
+      title: 'Enduring Significance'
+    },
+    {
+      route: 'bibliography',
+      title: 'Bibliography'
+    },
+  ]
+
   return (
-    <div className='nav-bar'>
-      {props.links.map((link) => <Link className='nav-link' href={'/' + link}>{link}</Link>)}
+    <div id='nav-bar'>
+      {links.map((link) => {
+        let selected = ''
+        if (props.page === link.route) {
+          selected = 'selected'
+        }
+        return <Link key={link.route} className={'nav-link ' + selected} href={'/' + link.route}>{link.title}</Link>
+      })}
     </div>
   )
 }
