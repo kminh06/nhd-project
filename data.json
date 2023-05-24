@@ -49,7 +49,10 @@
             "route": "event",
             "image1": "https://teaching10questions.files.wordpress.com/2014/06/assassinationfranzferdinandmap.gif",
             "image2": "https://assets.editorial.aetnd.com/uploads/2018/08/outbreak-of-world-war-i-gettyimages-506127736.jpg",
-            "image3": "https://www.irishtimes.com/resizer/X436H06PuaVyZwvoLL2nk4wJGyw=/1600x1200/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ND53LU4H4MGKRFR7QWXXUUIEBU.jpg"
+            "image3": "https://www.irishtimes.com/resizer/X436H06PuaVyZwvoLL2nk4wJGyw=/1600x1200/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ND53LU4H4MGKRFR7QWXXUUIEBU.jpg",
+            "caption1": "Assassination of Franz Ferdinand Map",
+            "caption2": "The moment Franz Ferdinand and his wife got shot",
+            "caption3": "Gavrilo Princip"
         }
     ],
     "context": [
@@ -64,7 +67,10 @@
             "route": "context",
             "image1": "https://www.thoughtco.com/thmb/pdTkDztPMJq2ppuEXAbbf5dfG9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Black_Hand_Members-58b1522e5f9b586046970fcb.jpg",
             "image2": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/04/03/18/v2-p36-wwlv2.jpg",
-            "image3": "https://i.dailymail.co.uk/i/pix/2013/09/06/article-2414474-1B864624000005DC-207_308x425.jpg"
+            "image3": "https://i.dailymail.co.uk/i/pix/2013/09/06/article-2414474-1B864624000005DC-207_308x425.jpg",
+            "caption1": "Some Members of the Black Hand",
+            "caption2": "Franz Ferdinand and his wife approaching their vehicle in Sarajevo ",
+            "caption3": "Archduke Franz Ferdinand and his wife, Duchess Sophie"
         }
     ],
     "longueduree": [
@@ -79,7 +85,10 @@
             "route": "longueduree",
             "image1": "https://cache.diomedia.com/diocomp/01/AT/E4/comp/01AT-E4ZA.jpg",
             "image2": "https://www.economist.com/sites/default/files/images/2018/08/articles/main/20180901_eud000_0.jpg",
-            "image3": "https://cdn.shopify.com/s/files/1/2592/3384/products/9781781557709_2048x2048.jpg?v=1574342010"
+            "image3": "https://cdn.shopify.com/s/files/1/2592/3384/products/9781781557709_2048x2048.jpg?v=1574342010",
+            "caption1": "Newspaper article of the declaration of war on Serbia from Austria Hungary",
+            "caption2": "Cartoon showing a grave of Austria Hungary following their collapse at the end of World War 1",
+            "caption3": "Image of book The End of the Hasburgs written by John Van Der Kiste "
         }
     ],
     "triggering": [
@@ -94,7 +103,10 @@
             "route": "triggering",
             "image1": "https://cdn.britannica.com/81/124481-050-C71796F0/Francis-Ferdinand-Sophie-Austria-carriage-Sarajevo-assassination-June-28-1914.jpg?w=400&h=300&c=crop",
             "image2": "https://th-thumbnailer.cdn-si-edu.com/_gXL5GjTb2HQhnIEDB_6Ef2AwRw=/fit-in/1600x0/filters:focal(1540x995:1541x996)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2Fb2%2F16%2Fb2161b42-10a1-4db3-9639-e05ebbe16db4%2Fu16766inp.jpg",
-            "image3": "https://upload.wikimedia.org/wikipedia/commons/3/38/Archduke_Franz_Ferdinand_in_Sarajevo%2C_June_1914_Q91848.jpg"
+            "image3": "https://upload.wikimedia.org/wikipedia/commons/3/38/Archduke_Franz_Ferdinand_in_Sarajevo%2C_June_1914_Q91848.jpg",
+            "caption1": "Archduke Franz Ferdinand and His Wife Sophie in Their Carriage Moments Before Their Assassination in Sarajevo: June 28, 1914.",
+            "caption2": "Assassin Gavrilo Princip Being Arrested After Assassinating Archduke Franz Ferdinand and His Wife Sophie: June 28, 1914.",
+            "caption3": "Archduke Franz Ferdinand in Sarajevo Shortly Before His Assassination: June 28, 1914."
         }
     ],
     "impact": [
@@ -104,12 +116,15 @@
             "question2": "What does this assassination mean for the future of Austria Hungary?",
             "answer2": "The assassination of Archduke Franz Ferdinand had a profound impact on the future of Austria-Hungary. It was the spark that ignited World War I, which ultimately led to the collapse of the Austro-Hungarian Empire and the end of the Habsburg dynasty. In the aftermath of the assassination, Austria-Hungary declared war on Serbia, which set off a chain reaction of alliances and declarations of war among the major European powers. The war lasted for four years and resulted in the deaths of millions of people, including soldiers and civilians. The war also had a devastating impact on the economy and infrastructure of Austria-Hungary, which was already struggling with internal divisions and political unrest. The empire was forced to cede much of its territory and power to other countries, and it was eventually dissolved in 1918. The assassination of Archduke Franz Ferdinand was a turning point in the history of Austria-Hungary, marking the beginning of the end for the empire. It demonstrated the fragility of the political and social order in Europe at the time, and it set the stage for the major political and social upheavals of the 20th century.",
             "question3": "What immediate political and diplomatic consequences did the assassination of Archduke Franz Ferdinand have on Austria-Hungary and its relations with Serbia and other European powers?",
-            "answer3": "The assassination of Archduke Franz Ferdinand had immediate political and diplomatic consequences on Austria-Hungary and its relations with Serbia and other European powers. Austria-Hungary saw the assassination as an act of aggression by Serbia and demanded that Serbia take responsibility for the attack and punish those responsible. When Serbia refused to comply with Austria-Hungary's demands, Austria-Hungary declared war on Serbia on July 28, 1914.This led to a series of alliances and declarations of war among the major European powers, ultimately resulting in the outbreak of World War I. The assassination also had a significant impact on the diplomatic relations between Austria-Hungary and other European powers. Germany, Austria-Hungary's ally, supported Austria-Hungary's actions against Serbia, while Russia, Serbia's ally, mobilized its army in response to Austria-Hungary's declaration of war. The assassination of Archduke Franz Ferdinand was a major catalyst for the outbreak of World War I and had immediate political and diplomatic consequences on Austria-Hungary and its relations with Serbia and other European powers.",
+            "answer3": "The assassination of Archduke Franz Ferdinand had immediate political and diplomatic consequences on Austria-Hungary and its relations with Serbia and other European powers. Austria-Hungary saw the assassination as an act of aggression by Serbia and demanded that Serbia take responsibility for the attack and punish those responsible. When Serbia refused to comply with Austria-Hungary's demands, Austria-Hungary declared war on Serbia on July 28, 1914. This led to a series of alliances and declarations of war among the major European powers, ultimately resulting in the outbreak of World War I. The assassination also had a significant impact on the diplomatic relations between Austria-Hungary and other European powers. Germany, Austria-Hungary's ally, supported Austria-Hungary's actions against Serbia, while Russia, Serbia's ally, mobilized its army in response to Austria-Hungary's declaration of war. The assassination of Archduke Franz Ferdinand was a major catalyst for the outbreak of World War I and had immediate political and diplomatic consequences on Austria-Hungary and its relations with Serbia and other European powers.",
             "title": "Immediate Impact",
             "route": "impact",
             "image1": "https://www.thoughtco.com/thmb/QI496e1yyyFzjTqPuhJWuI-xt0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2017-12-15at3.07.19PM-5a342bc8eb4d5200379049ec.png",
             "image2": "https://www.loc.gov/rr/news/libimages/assassination-franz-ferdinand.jpg",
-            "image3": "https://images.saymedia-content.com/.image/t_share/MTc0MzA1MTExNTQyMDgxMDIw/assassination-of-franz-ferdinand-the-aftermath.jpg"
+            "image3": "https://images.saymedia-content.com/.image/t_share/MTc0MzA1MTExNTQyMDgxMDIw/assassination-of-franz-ferdinand-the-aftermath.jpg",
+            "caption1": "Newspaper Headlines Announcing the Assassination of Archduke Franz Ferdinand and His Wife Sophie: June 28, 1914.",
+            "caption2": "Photographs taken after the assassination the Archduke",
+            "caption3": "Cartoon depicts Alliance systems in Europe in the early 20th century"
         }
     ],
     "significance": [
@@ -124,7 +139,10 @@
             "route": "significance",
             "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/19140629_Austria_Will_Avenge_Murder_-_The_Winnipeg_Tribune_%28compacted_view%29.jpg/440px-19140629_Austria_Will_Avenge_Murder_-_The_Winnipeg_Tribune_%28compacted_view%29.jpg",
             "image2": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2529/2017/10/04234044/media_35505_medium.jpeg",
-            "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SXdqOkAfAgjtiSiYZu4SegSZ3bZIenI6pw&usqp=CAU"
+            "image3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SXdqOkAfAgjtiSiYZu4SegSZ3bZIenI6pw&usqp=CAU",
+            "caption1": "Austria Vows to Avenge Murder: The Winnipeg Tribune, June 29, 1914",
+            "caption2": "Anti-Serbian Propaganda: 'Serbia Must Die!' - A Slogan Used by Austria-Hungary After the Assassination of Archduke Franz Ferdinand.",
+            "caption3": "Soldiers in the Trenches during World War I."
         },
         {
             "answer2": "2. German Support for Austria-Hungary: Germany, an ally of Austria-Hungary, provided its full support and assurance in the event of war. This emboldened Austria-Hungary and reinforced their aggressive stance towards Serbia."

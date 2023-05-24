@@ -11,7 +11,7 @@ export default function Bibliography() {
       <Navbar page={'bibliography'} />
       <h1>Bibliography</h1>
       <main className='content'>
-        <iframe src='' />
+        <iframe style={{ width: '800px', height: '1000px'}} src="https://docs.google.com/document/d/e/2PACX-1vREZT6h5z_ZqaZfcp5uhjvstrZe_Xs4yTrtqamcVNlK7ElnkfUBLIw_nDBiJoMrnOXNFy03Jf5tg5zt/pub?embedded=true"></iframe>
       </main>
     </div>
   )

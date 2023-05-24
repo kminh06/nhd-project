@@ -30,13 +30,19 @@ export default function Page({ json }) {
           <h3>{json[page][0].question1}</h3>
           <div>
             <p>{json[page][0].answer1}</p>
-            <img src={json[page][0].image1} alt='sdasd' />
+            <span>
+              <img src={json[page][0].image1} alt='sdasd' />
+              <p style={{ fontSize: '12px'}}>{json[page][0].caption1}</p>
+            </span>
           </div>
         </div>
         <div id='2' className='article'>
           <h3>{json[page][0].question2}</h3>
           <div>
-            <img src={json[page][0].image2} alt='asdasd' />
+            <span>
+              <img src={json[page][0].image2} alt='sdasd' />
+              <p style={{ fontSize: '12px'}}>{json[page][0].caption2}</p>
+            </span>
             <p>{json[page][0].answer2}</p>
           </div>
         </div>
@@ -44,7 +50,10 @@ export default function Page({ json }) {
           <h3>{json[page][0].question3}</h3>
           <div>
             <p>{json[page][0].answer3}</p>
-            <img src={json[page][0].image3} alt='asdasd' />
+            <span>
+              <img src={json[page][0].image3} alt='sdasd' />
+              <p style={{ fontSize: '12px'}}>{json[page][0].caption3}</p>
+            </span>
           </div>
         </div>
       </main>

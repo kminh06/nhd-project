@@ -78,3 +78,15 @@ p {
 .article:first-child {
   margin-top: 0;
 }
+
+.Footer {
+  height: 100px;
+  text-align: center;
+  width: 100%;
+  padding-top: 20px;
+  font-style: italic;
+}
+
+.Footer > p {
+  text-align: center;
+}
