@@ -65,11 +65,11 @@
             "answer3": "Archduke Franz Ferdinand, the heir to the Austro-Hungarian Empire, had several problems in his family. One of the most significant issues was his marriage to Countess Sophie Chotek, a lady-in-waiting to Archduchess Isabella. Sophie was not of royal blood, and her marriage to Franz Ferdinand was considered a morganatic marriage, which meant that their children would not inherit the throne. This caused tension between Franz Ferdinand and his uncle, Emperor Franz Joseph, who disapproved of the marriage. Additionally, Franz Ferdinand's relationship with his father, Archduke Karl Ludwig, was strained. Karl Ludwig had been passed over for the throne in favor of Franz Joseph, and he resented his son's position as heir. This tension was further exacerbated by Franz Ferdinand's marriage to Sophie, which Karl Ludwig saw as a threat to the dynasty. Finally, Franz Ferdinand had a difficult relationship with his own children. He was a strict father who demanded obedience and discipline, and he was often distant from his children. This caused resentment and tension within the family, which was further complicated by the fact that his children were not in the line of succession due to his morganatic marriage.",
             "title": "Context",
             "route": "context",
-            "image1": "https://www.thoughtco.com/thmb/pdTkDztPMJq2ppuEXAbbf5dfG9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Black_Hand_Members-58b1522e5f9b586046970fcb.jpg",
-            "image2": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/04/03/18/v2-p36-wwlv2.jpg",
+            "image1": "https://upload.wikimedia.org/wikipedia/commons/7/71/Black_Hand%2C_logo.png",
+            "image2": "https://cdn.britannica.com/00/183600-050-8D838FA1/World-Data-Locator-Map-Bosnia-and-Herzegovina.jpg",
             "image3": "https://i.dailymail.co.uk/i/pix/2013/09/06/article-2414474-1B864624000005DC-207_308x425.jpg",
-            "caption1": "Some Members of the Black Hand",
-            "caption2": "Franz Ferdinand and his wife approaching their vehicle in Sarajevo ",
+            "caption1": "Logo of The Black Hand",
+            "caption2": "Map showing Sarajevo's geographic location",
             "caption3": "Archduke Franz Ferdinand and his wife, Duchess Sophie"
         }
     ],
@@ -101,12 +101,12 @@
             "answer3": "Archduke Franz Ferdinand was aware of the risks involved in visiting Bosnia, which was a region with a history of political unrest and nationalist tensions. He had received warnings about the potential danger of his visit, but he chose to go ahead with it anyway. There were several reasons why Franz Ferdinand decided to go to Bosnia despite the warnings. One reason was that he was determined to assert his authority as heir to the Austro-Hungarian throne. Bosnia was a part of the empire, and Franz Ferdinand saw it as his duty to visit the region and show his support for the government there. Another reason was that Franz Ferdinand was a strong advocate for reform within the Austro-Hungarian Empire. He believed that the empire needed to modernize and become more responsive to the needs of its diverse population. He saw his visit to Bosnia as an opportunity to promote his reform agenda and to demonstrate his commitment to the people of the region. Finally, Franz Ferdinand was also motivated by personal reasons. He had a strong interest in the military and was eager to observe the military maneuvers that were taking place in Bosnia at the time. He also saw the visit as an opportunity to spend time with his wife, Sophie, who was accompanying him on the trip. Despite the warnings, Franz Ferdinand believed that his visit to Bosnia was important and that the risks were worth taking. Unfortunately, his decision to go ahead with the visit proved to be a fatal one, as he and his wife were assassinated by a Serbian nationalist during their visit to Sarajevo.",
             "title": "Triggering Event",
             "route": "triggering",
-            "image1": "https://cdn.britannica.com/81/124481-050-C71796F0/Francis-Ferdinand-Sophie-Austria-carriage-Sarajevo-assassination-June-28-1914.jpg?w=400&h=300&c=crop",
+            "image1": "https://upload.wikimedia.org/wikipedia/commons/2/26/Map_Europe_alliances_1914-en.svg",
             "image2": "https://th-thumbnailer.cdn-si-edu.com/_gXL5GjTb2HQhnIEDB_6Ef2AwRw=/fit-in/1600x0/filters:focal(1540x995:1541x996)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2Fb2%2F16%2Fb2161b42-10a1-4db3-9639-e05ebbe16db4%2Fu16766inp.jpg",
-            "image3": "https://upload.wikimedia.org/wikipedia/commons/3/38/Archduke_Franz_Ferdinand_in_Sarajevo%2C_June_1914_Q91848.jpg",
-            "caption1": "Archduke Franz Ferdinand and His Wife Sophie in Their Carriage Moments Before Their Assassination in Sarajevo: June 28, 1914.",
+            "image3": "https://chappatte.com/sites/default/files/styles/thumb/public/import_ld/L140628ce.jpg?itok=zHN7ggEm",
+            "caption1": "Map of the European Alliances during World War 1",
             "caption2": "Assassin Gavrilo Princip Being Arrested After Assassinating Archduke Franz Ferdinand and His Wife Sophie: June 28, 1914.",
-            "caption3": "Archduke Franz Ferdinand in Sarajevo Shortly Before His Assassination: June 28, 1914."
+            "caption3": "Cartoon depicting the assassination of Archduke Franz Ferdinand"
         }
     ],
     "impact": [
