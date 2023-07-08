@@ -4,8 +4,9 @@ import Head from 'next/head'
 import data from '@/data.json' assert {type: 'json'};
 import Navbar from '@/components/Navbar';
 
-export async function getServerSideProps() {
-  const json = data
+export async function getServerSideProps(context) {
+  const { page } = context.query
+  const json = data[page][0]
   return {
     props: {
       json
@@ -16,7 +17,7 @@ export async function getServerSideProps() {
 export default function Page({ json }) {
   const router = useRouter()
   const { page } = router.query
-  const title = json[page][0].title
+  const title = json.title
 
   return (
     <div className='Page'>
@@ -27,32 +28,32 @@ export default function Page({ json }) {
       <h1>{title}</h1>
       <main className='content'>
         <div id='1' className='article'>
-          <h3>{json[page][0].question1}</h3>
+          <h3>{json.question1}</h3>
           <div>
-            <p>{json[page][0].answer1}</p>
+            <p>{json.answer1}</p>
             <span>
-              <img src={json[page][0].image1} alt='sdasd' />
-              <p style={{ fontSize: '12px'}}>{json[page][0].caption1}</p>
+              <img src={json.image1} alt='sdasd' />
+              <p style={{ fontSize: '12px'}}>{json.caption1}</p>
             </span>
           </div>
         </div>
         <div id='2' className='article'>
-          <h3>{json[page][0].question2}</h3>
+          <h3>{json.question2}</h3>
           <div>
             <span>
-              <img src={json[page][0].image2} alt='sdasd' />
-              <p style={{ fontSize: '12px'}}>{json[page][0].caption2}</p>
+              <img src={json.image2} alt='sdasd' />
+              <p style={{ fontSize: '12px'}}>{json.caption2}</p>
             </span>
-            <p>{json[page][0].answer2}</p>
+            <p>{json.answer2}</p>
           </div>
         </div>
         <div id='3' className='article'>
-          <h3>{json[page][0].question3}</h3>
+          <h3>{json.question3}</h3>
           <div>
-            <p>{json[page][0].answer3}</p>
+            <p>{json.answer3}</p>
             <span>
-              <img src={json[page][0].image3} alt='sdasd' />
-              <p style={{ fontSize: '12px'}}>{json[page][0].caption3}</p>
+              <img src={json.image3} alt='sdasd' />
+              <p style={{ fontSize: '12px'}}>{json.caption3}</p>
             </span>
           </div>
         </div>

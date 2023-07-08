@@ -1,6 +1,4 @@
-import { useEffect } from 'react'
 import React from 'react'
-import Link from 'next/link'
 
 export default function Navbar(props) {
   const links = [
@@ -45,7 +43,7 @@ export default function Navbar(props) {
         if (props.page === link.route) {
           selected = 'selected'
         }
-        return <Link key={link.route} className={'nav-link ' + selected} href={'/' + link.route}>{link.title}</Link>
+        return <a key={link.route} className={'nav-link ' + selected} href={'/' + link.route}>{link.title}</a>
       })}
     </div>
   )
